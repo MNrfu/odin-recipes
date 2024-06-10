@@ -1,1 +1,1 @@
-# odin-recipes
+Before starting : This project aims to test HTML skills.
