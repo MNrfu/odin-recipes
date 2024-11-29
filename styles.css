@@ -1,0 +1,43 @@
+#mainhead {
+    color:#b503fc;
+    text-align: center;
+}
+
+.header {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+.bground {
+    background-color: hsl(307, 82%, 89%);
+}
+
+.btn {
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 1px solid #333333;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    height: auto;
+    width: 200px;
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 20%;
+    
+} 
+
+.header.smaller {
+    color: #800180;
+    text-align: start;
+}
+
+.para {
+    font-size: large;
+    font-weight: bold;
+}
